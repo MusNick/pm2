@@ -12,7 +12,7 @@ module.exports = {
   deploy : {
     production : {
       user : 'root',
-      host : '39.108.131.40',
+      host : '45.76.47.109',
       ref  : 'origin/master',
       repo : 'git@github.com:Duanzihuang/szhmqd21_node.git',
       path : '/ftp/node/production',
